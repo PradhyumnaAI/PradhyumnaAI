@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/PradhyumnaAI" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats.vercel.app/api?username=PradhyumnaAI&theme=Dark" alt="LeetCode Stats" />
 </p>
 
 ---
