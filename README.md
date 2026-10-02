@@ -66,10 +66,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://leetcode.glyph.sh/PradhyumnaAI" alt="LeetCode Stats" />
-</p>
----
+
 
 <p align="center">
   <i>"Consistency in code, clarity in models."</i>
