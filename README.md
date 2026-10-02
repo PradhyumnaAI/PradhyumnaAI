@@ -56,7 +56,7 @@
 ## 📊 GitHub & LeetCode Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PradhyumnaAI&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PradhyumnaAI&show_icons=true&theme=tokyonight&hide_rank=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradhyumnaAI&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
 </p>
 
@@ -65,8 +65,6 @@
     <img src="https://img.shields.io/badge/LeetCode-PradhyumnaAI-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
   </a>
 </p>
-
-
 
 <p align="center">
   <i>"Consistency in code, clarity in models."</i>
