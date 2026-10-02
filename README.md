@@ -61,7 +61,9 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcode-badge.vercel.app/api/users/PradhyumnaAI" alt="LeetCode Badge" />
+  <a href="https://leetcode.com/u/PradhyumnaAI/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-PradhyumnaAI-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  </a>
 </p>
 
 ---
